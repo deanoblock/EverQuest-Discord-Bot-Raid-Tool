@@ -1,4 +1,3 @@
-# this is from your google sheets API, copy entire cmdlet here
 {
   "type": "service_account",
   "project_id": "",
